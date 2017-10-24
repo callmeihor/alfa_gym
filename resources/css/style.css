@@ -91,6 +91,9 @@ h2:after {
   font-size: 90%;
   line-height: 145%;
 }
+.step {
+  padding-top: 10px;
+}
 /*-------- icons -----------------------------------*/
 .icon-big {
   font-size: 350%;
